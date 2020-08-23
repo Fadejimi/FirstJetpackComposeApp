@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194178540882",
+    "firebase_url": "https://callrepresentatives-91dea.firebaseio.com",
+    "project_id": "callrepresentatives-91dea",
+    "storage_bucket": "callrepresentatives-91dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194178540882:android:cae5d4cdbe0a68ce29868b",
+        "android_client_info": {
+          "package_name": "com.fadejimi.callrepresentatives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194178540882-mg5hf3ivsp5pt7fqvbt0lcljlcm3bf3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoy-OnS7EZ6b3WE1dgDg7LNZ0FRjKx-yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194178540882-mg5hf3ivsp5pt7fqvbt0lcljlcm3bf3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
